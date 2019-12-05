@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c999f3c5-985f-4bf4-a3a1-24b8c5f144e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/CreateExercises.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CreateUsers.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EditExercises.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExercisesList.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.component.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +60,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\fullstack\src" />
+    </key>
   </component>
   <component name="SQLPlugin.ProjectConfiguration">
     <queries />
@@ -91,7 +102,9 @@
       <workItem from="1575429537438" duration="2093000" />
       <workItem from="1575484722702" duration="1546000" />
       <workItem from="1575514161195" duration="70000" />
-      <workItem from="1575514565272" duration="267000" />
+      <workItem from="1575514565272" duration="2499000" />
+      <workItem from="1575527594130" duration="11041000" />
+      <workItem from="1575547731637" duration="18511000" />
     </task>
     <servers />
   </component>
@@ -110,5 +123,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="11" key="SettingsEditor" timestamp="1575551844741">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1575551844741" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1575570461552">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1575570461552" />
   </component>
 </project>
